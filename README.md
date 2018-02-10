@@ -1,7 +1,7 @@
 # Web-Dev-1st-Assignment
 Very simple 1st assignment of web development class.
 <br><br>
-
+Your site is ready to be published at https://kananahalpara.github.io/Web-Dev-1st-Assignment/.
 <br><br>
 ASSIGNMENT : AS FOLLOWS :
 <br>
