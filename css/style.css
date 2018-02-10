@@ -1,0 +1,53 @@
+html{
+	font-size: 18px;
+	font-family: century gothic;
+	color:#304559;
+	text-align: center;
+	margin: 5%;
+	margin-top: 1%;
+}
+
+section{
+	margin:10px;
+}
+section p{
+	text-align: left;
+}
+
+a{
+	text-decoration: none;
+	color:#f16529;
+	font-style: italic;
+}
+
+nav li{
+	list-style-type: none;
+	float: left;
+}
+
+li{
+	list-style-type: none;
+}
+
+li a {
+	text-align: center;
+	margin-right:40px;
+}
+
+li a img {
+	width: 150px;
+}
+
+li a img:hover {
+	opacity:0.5;
+}
+
+.mailto{
+	color:#f16529;
+	font-weight: bold;
+}
+
+.mailto:hover{
+	color:#304559;
+}
+
